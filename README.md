@@ -6,7 +6,3 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I will eat a lot of 🍣 if you let me.
 
-<!---
-andy-focusedlabs/andy-focusedlabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
